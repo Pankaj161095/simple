@@ -1,1 +1,1 @@
-print('this is demo')
+print('this')
